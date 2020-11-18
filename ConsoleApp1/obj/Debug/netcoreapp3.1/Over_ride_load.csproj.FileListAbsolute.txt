@@ -1,0 +1,13 @@
+D:\College\NCC Reg\Lab works\Lab2.3\ConsoleApp1\bin\Debug\netcoreapp3.1\Over_ride_load.exe
+D:\College\NCC Reg\Lab works\Lab2.3\ConsoleApp1\bin\Debug\netcoreapp3.1\Over_ride_load.deps.json
+D:\College\NCC Reg\Lab works\Lab2.3\ConsoleApp1\bin\Debug\netcoreapp3.1\Over_ride_load.runtimeconfig.json
+D:\College\NCC Reg\Lab works\Lab2.3\ConsoleApp1\bin\Debug\netcoreapp3.1\Over_ride_load.runtimeconfig.dev.json
+D:\College\NCC Reg\Lab works\Lab2.3\ConsoleApp1\bin\Debug\netcoreapp3.1\Over_ride_load.dll
+D:\College\NCC Reg\Lab works\Lab2.3\ConsoleApp1\bin\Debug\netcoreapp3.1\Over_ride_load.pdb
+D:\College\NCC Reg\Lab works\Lab2.3\ConsoleApp1\obj\Debug\netcoreapp3.1\Over_ride_load.csprojAssemblyReference.cache
+D:\College\NCC Reg\Lab works\Lab2.3\ConsoleApp1\obj\Debug\netcoreapp3.1\Over_ride_load.AssemblyInfoInputs.cache
+D:\College\NCC Reg\Lab works\Lab2.3\ConsoleApp1\obj\Debug\netcoreapp3.1\Over_ride_load.AssemblyInfo.cs
+D:\College\NCC Reg\Lab works\Lab2.3\ConsoleApp1\obj\Debug\netcoreapp3.1\Over_ride_load.csproj.CoreCompileInputs.cache
+D:\College\NCC Reg\Lab works\Lab2.3\ConsoleApp1\obj\Debug\netcoreapp3.1\Over_ride_load.dll
+D:\College\NCC Reg\Lab works\Lab2.3\ConsoleApp1\obj\Debug\netcoreapp3.1\Over_ride_load.pdb
+D:\College\NCC Reg\Lab works\Lab2.3\ConsoleApp1\obj\Debug\netcoreapp3.1\Over_ride_load.genruntimeconfig.cache
